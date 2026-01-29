@@ -60,7 +60,7 @@ Before simulating PV production, the tool visualizes the **solar resource itself
 These plots help understand *how much solar energy is available* and *when it occurs*.
 
 <p align="center">
-  <img src="config/assets/solar_resource.png" width="500" alt="Solar Resource metrics example">
+  <img src="config/assets/solar_resource.png" width="800" alt="Solar Resource metrics example">
 </p>
 
 #### PV System Inputs
@@ -96,7 +96,7 @@ The wind resource is analysed independently of the turbine:
 This separates **resource quality** from **technology performance**.
 
 <p align="center">
-  <img src="config/assets/wind_resource.png" width="500" alt="Wind Resource metrics example">
+  <img src="config/assets/wind_resource.png" width="800" alt="Wind Resource metrics example">
 </p>
 
 #### Turbine Selection
