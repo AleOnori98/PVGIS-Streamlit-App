@@ -1,0 +1,5 @@
+model,turbine_type,rated_power_kw,rotor_diameter_m,hub_height_m,curve_csv,sheet,source
+Alstom.Eco.80,Horizontal Axis,1670.0,80.0,80.0,Alstom_Eco_80__Horizontal_Axis.csv,Alstom.Eco.80 - Horizontal Axis,Wind Turbine Power Curves.xlsx
+NPS100c-21,Horizontal Axis,100.0,20.7,37.0,NPS100c-21__Horizontal_Axis.csv,NPS100c-21 - Horizontal Axis,Wind Turbine Power Curves.xlsx
+Hi-VAWT.DS1500,Vertical Axis,1.5,1.24,1.06,Hi-VAWT_DS1500__Vertical_Axis.csv,Hi-VAWT.DS1500 - Vertical Axis,Wind Turbine Power Curves.xlsx
+Hi-VAWT.DS700,Vertical Axis,0.7,1.93,1.6,Hi-VAWT_DS700__Vertical_Axis.csv,Hi-VAWT.DS700 - Vertical Axis,Wind Turbine Power Curves.xlsx
